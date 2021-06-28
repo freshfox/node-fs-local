@@ -592,9 +592,9 @@ get-stream@^6.0.0:
   integrity sha512-A1B3Bh1UmL0bidM/YX2NsCOTnGJePL9rO/M+Mw3m9f2gUpfokS0hi5Eah0WSUEWZdZhIZtMjkIYS7mDfOqNHbg==
 
 glob-parent@~5.1.0:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.1.tgz#b6c1ef417c4e5663ea498f1c45afac6916bbc229"
-  integrity sha512-FnI+VGOpnlGHWZxthPGR+QhR78fuiK0sNLkHQv+bL9fQi57lNNdquIbna/WrfROrolq8GK5Ek6BiMwqL/voRYQ==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
@@ -803,10 +803,10 @@ jws@^4.0.0:
     jwa "^2.0.0"
     safe-buffer "^5.0.1"
 
-like-fs@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/like-fs/-/like-fs-3.2.1.tgz#4eb0d8e46fc97a9ef4e0f5fdc2446726f6c08f2a"
-  integrity sha512-MzkawKegworohQrDFnk1ORNpG7eia/lUQDcKPoN/TZn/t34DzGMr1XiZkKZ9SeAo/vTdgLHzFBqsfxIEJVd7Fg==
+like-fs@^3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/like-fs/-/like-fs-3.2.2.tgz#9110c89e22e56c450ec31adb74eff0623f9b36da"
+  integrity sha512-T6tNorkAc+qpM6WbLnjLImpdKsjs8VjzHRavDxvwNn7gUWufuRWU3mXka/YXAO0wBE8Cbtmw14amSS8itupEAA==
   dependencies:
     "@nestjs/common" "^7.6.4"
     "@nestjs/core" "^7.6.4"
